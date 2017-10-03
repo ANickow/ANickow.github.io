@@ -22,4 +22,5 @@ img, i{
 
 i, p{
     color: white;
+    display: block;
 }
